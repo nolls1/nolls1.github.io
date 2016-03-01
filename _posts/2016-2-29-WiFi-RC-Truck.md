@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RaspberryPi/WiFi RC Truck
+title: RaspberryPi RC Truck
 ---
 
 # INTRODUCTION

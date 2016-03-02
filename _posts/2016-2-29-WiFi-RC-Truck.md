@@ -59,7 +59,7 @@ At this point there is no additional construction needed, so now all it needed w
 
 What needed to happen was that I had to write the code to power the motors and design the web application which would let me control the truck. The type of code I needed to write was python for the motors and hosting the webpage, and I needed to write some HTML/CSS for the button layout that would be hosted with the web framework I would be using, which was flask. The stepper motor hat made everything pretty straightforward, since it has libraries that make it easy to write the code for the motors. To get started I refered again to [Adafruit's website](https://learn.adafruit.com/adafruit-dc-and-stepper-motor-hat-for-raspberry-pi/using-dc-motors):
 
-Once I figured that out I needed to make a button layout that would be easy for me to use. Since I don't really know that much about HTML/CSS I consulted with my friend, Daniel Forsyth, to help me out with it since that is in his realm of expertise. If you're interested, his blog can be found [here](http://www.danielforsyth.me/). The following picture is the button layout:
+Once I figured that out I needed to make a button layout that would be easy for me to use. Since I don't really know that much about HTML/CSS I consulted with my friend, Daniel Forsyth, to help me out with it since that is in his realm of expertise. If you're interested, his blog can be found [here](http://www.danielforsyth.me/). I also want to give credit to a user on reddit named [Giannie](https://www.reddit.com/user/giannie), who added some javascript to my code to eliminate the need for the page to reload after every time I would send the truck a command. The following picture is the button layout:
 
 ![Layout](/images/Layout.PNG)
 
